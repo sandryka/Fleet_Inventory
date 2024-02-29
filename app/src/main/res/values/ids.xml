@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="resultsInventory" type="id">resultsInventory</item>
+    <item name="closeButton" type="id">closeButton</item>
+    <item name="costLayout" type="id">costLayout</item>
+</resources>
